@@ -1,81 +1,111 @@
-# Hi, I'm sanks👋
+# Hi, I'm sanks 👋
 
 **Full-Stack Engineer · AI Engineering · 3D GIS · UAV Systems**
 
-专注复杂 Web 系统、三维 GIS、无人机智能巡检与 AI 应用工程。
+I build complex, production-oriented systems across frontend, backend, 3D visualization, real-time communication, and AI applications.
 
-从前端组件与工程化，到 Java / Node.js 后端，
-再到 Cesium 三维可视化、实时数据链路与 AI 应用，
-持续构建能够真正落地的完整系统。
+My work focuses on connecting technologies into complete solutions — from Web interfaces and backend services to digital twins, UAV platforms, IoT, and intelligent systems.
+
+> From frontend to backend, from 3D visualization to AI.
 
 ## 🧭 Focus
 
-- 🖥️ Full-Stack Web Engineering
-- 🌍 Cesium / 3D GIS / Digital Twin
-- 🚁 UAV / IoT / Realtime Systems
-- 🤖 AI Agent / RAG / LLM Applications
-- ⚙️ Engineering Architecture & DevOps
+* 🌍 3D GIS & Digital Twin
+* 🚁 UAV & Intelligent Inspection Systems
+* 🤖 AI Agent, RAG & LLM Applications
+* ⚡ Real-Time Web & IoT Systems
+* 🏗️ Full-Stack Architecture
+* ⚙️ Engineering & DevOps
 
 ## 🚀 Featured Projects
 
 ### [SkyTrace（天巡智控）](https://github.com/Inception-entry/skytrace-platform)
 
-无人机智能巡检全栈平台。
+A full-stack intelligent UAV inspection platform integrating real-time flight operations, telemetry, AI analysis, alert workflows, and evidence auditing.
 
-`Vue 3` `Cesium` `Java` `Spring Boot` `NestJS`
-`FastAPI` `AI / RAG` `MQTT` `Temporal` `Docker`
+`Vue 3` `TypeScript` `Cesium` `Java` `Spring Boot` `Spring Cloud`
+`NestJS` `FastAPI` `RAG` `MQTT` `RabbitMQ` `Temporal` `Docker`
 
 ---
 
 ### [Peregrine（游隼）](https://github.com/Inception-entry/peregrine)
 
-Vue 3 + TypeScript + Cesium 三维地球项目。
+A 3D GIS application built with Vue 3, TypeScript, and Cesium.
 
-多地图源、空间测量、POI 搜索、坐标转换、
-2D/3D 场景以及 3D Tiles。
+Includes map layers, spatial measurement, coordinate conversion, POI search, 2D/3D visualization, and 3D Tiles support.
+
+`Vue 3` `TypeScript` `Cesium` `Vite` `Pinia`
 
 ---
 
 ### [Nighthawk（夜鹰）](https://github.com/Inception-entry/nighthawk)
 
-React / Node.js Monorepo 工程实践。
+A React and Node.js engineering project exploring modern frontend architecture and Monorepo development.
 
-`React` `TypeScript` `Turborepo` `pnpm`
-`Koa` `TypeORM` `MobX`
+`React` `TypeScript` `Node.js` `Koa` `Turborepo` `pnpm`
 
 ---
 
 ### [Vue Tree Grid](https://github.com/Inception-entry/vue-tree-grid)
 
-Vue 树形嵌套表格组件，
-包含递归组件、复杂表格以及大数据量虚拟列表实现。
+A tree-grid component for complex hierarchical data visualization.
+
+Includes recursive rendering and virtual-list optimization for large datasets.
+
+`Vue` `JavaScript` `Virtual List`
 
 ---
 
 ### [Utils](https://github.com/Inception-entry/utils)
 
-前端开发过程中沉淀的通用工具与工程能力。
+A collection of reusable frontend utilities and development helpers.
 
-## 🛠 Tech
+`JavaScript` `Frontend Utilities`
 
-**Frontend**
+## 🛠 Tech Stack
 
-`Vue` `React` `TypeScript` `Cesium` `Three.js`
+### Frontend
 
-**Backend**
+`Vue` `React` `TypeScript` `JavaScript`
+`Cesium` `Three.js`
+
+### Backend
 
 `Java` `Spring Boot` `Spring Cloud`
 `Node.js` `NestJS` `Koa`
 
-**AI**
+### AI
 
 `Python` `FastAPI` `RAG` `LLM` `AI Agent`
 
-**Infrastructure**
+### Data & Messaging
 
-`Docker` `MySQL` `Redis` `RabbitMQ`
-`MQTT` `MinIO` `Temporal`
+`MySQL` `Redis` `RabbitMQ` `MQTT` `MinIO`
+
+### Infrastructure
+
+`Docker` `GitHub Actions` `Temporal`
+`Prometheus` `Grafana`
+
+## 🔭 Currently Exploring
+
+* AI Agents for real-world engineering workflows
+* RAG and LLM-powered applications
+* UAV autonomous inspection systems
+* 3D GIS and digital twin platforms
+* Java + Node.js + Python service architecture
+* AI-assisted software engineering
 
 ## 📊 GitHub
 
-![GitHub Stats](./profile/stats.svg)
+<p align="center">
+  <img height="170" src="./profile/stats.svg" />
+  <img height="170" src="./profile/top-langs.svg" />
+</p>
+
+## 💡 Engineering Philosophy
+
+I believe strong engineering is not about knowing more frameworks.
+
+It is about understanding complex problems, designing maintainable architectures, connecting different technologies, and turning ideas into reliable systems.
+
